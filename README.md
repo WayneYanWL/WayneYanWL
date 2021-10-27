@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WayneYanWL
 - 👀 I’m interested in DA, AI, ML
-- 🌱 I’m currently learning DA & ML
+- 🌱 I’m currently learning DA & ML with Python & Pandas & SQL
 - 📫 Reach me at wayne.yanwl@gmail.com
 
 <!---
